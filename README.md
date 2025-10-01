@@ -90,4 +90,4 @@ Este app foi criado para gerar senhas aleatórias com diferentes níveis de comp
 <<<<<<< HEAD
 =======
 
->>>>>>> d34783f03ff00a6f147f5cda7f7f506ebf23d21c
+>>>>>>>
