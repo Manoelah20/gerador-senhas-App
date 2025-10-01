@@ -1,12 +1,17 @@
 
 
 🔐 Gerador de Senhas – App Expo
-Bem-vinda ao seu projeto criado com Expo usando create-expo-app. Este app é um gerador de senhas simples e funcional, ideal para aprender e praticar desenvolvimento mobile com React Native.
+
+Bem-vindo ao projeto criado com Expo usando create-expo-app. 
+
+Este app é um gerador de senhas simples e funcional, ideal para aprender e praticar desenvolvimento mobile com React Native.
 
 🚀 Primeiros Passos
+
 1️⃣ Instalar dependências
 bash
 npm install
+
 2️⃣ Iniciar o app
 bash
 npx expo start
