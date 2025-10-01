@@ -88,6 +88,11 @@ Esse comando move o código inicial para app-example e cria um diretório app va
 💡 Sobre o Projeto
 Este app foi criado para gerar senhas aleatórias com diferentes níveis de complexidade. Ideal para quem está começando com React Native e quer entender como lidar com componentes, hooks e estilização.
 <<<<<<< HEAD
-=======
+## 🌐 Acesse o app online
 
->>>>>>> d34783f03ff00a6f147f5cda7f7f506ebf23d21c
+Você pode testar o app diretamente no navegador:
+
+👉 [Abrir o Gerador de Senhas](https://Manoelah20.github.io/gerador-senhas-App)
+
+
+![Preview do App](./assets/images/preview.png)
