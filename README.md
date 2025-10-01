@@ -89,5 +89,5 @@ Você pode testar o app diretamente no navegador:
 
 Você pode testar o app diretamente no navegador:
 
-👉 [Abrir o Gerador de Senhas](https://Manoelah20.github.io/gerador-senhas-App)
+👉 [Abrir o Gerador de Senhas](https://github.com/Manoelah20/gerador-senhas-App)
 
