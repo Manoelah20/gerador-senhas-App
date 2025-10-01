@@ -1,50 +1,47 @@
-# Welcome to your Expo app 👋
+🔐 Gerador de Senhas – App Expo
+Bem-vinda ao seu projeto criado com Expo usando create-expo-app. Este app é um gerador de senhas simples e funcional, ideal para aprender e praticar desenvolvimento mobile com React Native.
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+🚀 Primeiros Passos
+1️⃣ Instalar dependências
+bash
+npm install
+2️⃣ Iniciar o app
+bash
+npx expo start
+Você poderá abrir o app em:
 
-## Get started
+📱 Build de desenvolvimento
 
-1. Install dependencies
+🤖 Emulador Android
 
-   ```bash
-   npm install
-   ```
+🍏 Simulador iOS
 
-2. Start the app
+🧪 Expo Go – ambiente limitado para testes rápidos
 
-   ```bash
-   npx expo start
-   ```
+🧭 Estrutura do Projeto
+Os arquivos principais estão no diretório app
 
-In the output, you'll find options to open the app in a
+Este projeto utiliza roteamento baseado em arquivos
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+Componentes reutilizáveis estão em components
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+Imagens e assets estão em assets/images
 
-## Get a fresh project
+🧼 Resetar o Projeto
+Se quiser começar do zero, execute:
 
-When you're ready, run:
-
-```bash
+bash
 npm run reset-project
-```
+Esse comando move o código inicial para app-example e cria um diretório app vazio para você começar a desenvolver.
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+📚 Recursos Úteis
+📖 Documentação do Expo
 
-## Learn more
+🧑‍🏫 Tutorial passo a passo
 
-To learn more about developing your project with Expo, look at the following resources:
+💬 Comunidade no Discord
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+🛠️ Expo no GitHub
 
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+💡 Sobre o Projeto
+Este app foi criado para gerar senhas aleatórias com diferentes níveis de complexidade. Ideal para quem está começando com React Native e quer entender como lidar com componentes, hooks e estilização.
