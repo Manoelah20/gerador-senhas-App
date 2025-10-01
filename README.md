@@ -29,12 +29,6 @@ Componentes reutilizáveis estão em components
 
 Imagens e assets estão em assets/images
 
-🧼 Resetar o Projeto
-Se quiser começar do zero, execute:
-
-=======
-
-
 🔐 Gerador de Senhas – App Expo
 
 Bem-vindo ao projeto criado com Expo usando create-expo-app. 
@@ -68,14 +62,6 @@ Este projeto utiliza roteamento baseado em arquivos
 Componentes reutilizáveis estão em components
 
 Imagens e assets estão em assets/images
-
-🧼 Resetar o Projeto
-Se quiser começar do zero, execute:
-
->>>>>>> d34783f03ff00a6f147f5cda7f7f506ebf23d21c
-bash
-npm run reset-project
-Esse comando move o código inicial para app-example e cria um diretório app vazio para você começar a desenvolver.
 
 📚 Recursos Úteis
 📖 Documentação do Expo
